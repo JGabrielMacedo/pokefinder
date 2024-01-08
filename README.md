@@ -31,17 +31,19 @@ providing information about Pokemon species, abilities, and more.
 
 To run the app on your local machine, make sure you have Flutter installed. Follow these steps:
 
-1. **Navigate to the Project Directory:**
+1. **Clone the Repository:**
    ```bash
-   cd pokedex-flutter
+   git clone git@github.com:JGabrielMacedo/pokefinder.git
    ```
-   
-2. **Install Dependencies:
+2. **Navigate to the Project Directory:**
+   ```bash
+   cd pokefinder
+   ``` 
+3. **Install Dependencies**:
    ```bash
    flutter pub get
    ```
-   
-3. **Install Dependencies:
+4. **Install Dependencies**:
    ```bash
    flutter run
    ```
